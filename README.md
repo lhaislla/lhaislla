@@ -1,7 +1,7 @@
 ## Olá, eu sou a Lhaíslla Eduarda Cavalcanti 😸
 
 - 🌈 Estudante de Sistemas de Informação na UFRPE
-- 💻 Atualmente, estou aprendendo Python | HTML | CSS | JS
+- 💻 Atualmente, estou aprendendo Python | Pandas | SQL | HTML | CSS | JS
 - 📊 Interessada em compreender o significado das informações com uso da engenharia e ciência de dados
 - ⏰ Hobby: Gosto de tocar violão | Assistir filmes | Visitar museus | Passar tempo com meu Gato 
 <div align="center">

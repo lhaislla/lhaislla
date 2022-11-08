@@ -5,7 +5,7 @@
 - 📊 Interessada em compreender o significado das informações com uso da engenharia e ciência de dados
 - ⏰ Hobby: Gosto de tocar violão | Assistir filmes | Visitar museus | Passar tempo com meu Gato 
 <div align="center">
-  
+  <a href="https://github.com/lhaislla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhaislla&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhaislla&layout=compact&langs_count=7&theme=darcula"/>
 </div>

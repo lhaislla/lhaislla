@@ -1,4 +1,4 @@
-## Olá, eu sou a Lhaíslla Eduarda Cavalcanti 😸
+## Olá, eu sou a Lhaíslla E. Cavalcanti 😸
 
 - 🌈 Estudante de Sistemas de Informação na UFRPE
 - 💻 Atualmente, estou estudando Python | Pandas | Spark | SQL | HTML | CSS | JS

@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lhaislla/)
 [![Site Pessoal](https://img.shields.io/badge/Site%20Pessoal-000000?style=for-the-badge&logo=react&logoColor=white)](https://lhaislla.github.io/site-pessoal/)
 
-<img width="280" align="right" alt="Foto de Perfil" src="https://lh3.googleusercontent.com/a/ACg8ocLQBzHSDSManOT8xsG7Yylm0aqt6F9aw2XyxCPbL8gh0wVRVqxV_A=s288-c-no">
+<!-- <img width="280" align="right" alt="Foto de Perfil" src="https://lh3.googleusercontent.com/a/ACg8ocLQBzHSDSManOT8xsG7Yylm0aqt6F9aw2XyxCPbL8gh0wVRVqxV_A=s288-c-no"> -->
 
 ![Estatísticas do GitHub de Lhaíslla](https://github-readme-stats.vercel.app/api?username=lhaislla&show_icons=true&theme=radical)
 
